@@ -48,7 +48,7 @@ O manual técnico completo do projeto está disponível em formato PDF e contém
 
  **Clique no link abaixo para acessar ou baixar o manual:**
 
- [Download do Manual da Horta Automática (PDF)](manual/manual_horta_automatica.pdf)
+ [Download do Manual da Horta Automática (PDF)](Manual/manual_horta_automatica.pdf)
 
 ---
 
@@ -97,4 +97,5 @@ Projeto desenvolvido para fins educacionais e acadêmicos.
 
 Este projeto é destinado a fins educacionais.  
 Sinta-se à vontade para estudar, adaptar e reutilizar, desde que os créditos sejam mantidos.
+
 
