@@ -63,14 +63,14 @@ O manual técnico completo do projeto está disponível em formato PDF e contém
 
 ---
 
-## 🏆 Premiações e Reconhecimentos
+##  Premiações e Reconhecimentos
 
 Este projeto foi reconhecido em âmbito nacional no **Programa Vitrine Tetra Pak**, iniciativa realizada pela **Tetra Pak** em parceria com a ONG **Argilando**, que desde 2021 premia projetos socioambientais desenvolvidos por jovens brasileiros com foco em sustentabilidade, inovação e impacto social.
 
 Na edição de **2025**, o projeto foi contemplado com as seguintes premiações:
 
-- 🥇 **Projeto Mais Sustentável da Região Centro-Oeste** — Programa Vitrine Tetra Pak (2025)  
-- 🏆 **Projeto Inovador** — Programa Vitrine Tetra Pak (2025)
+-  **Projeto Mais Sustentável da Região Centro-Oeste** — Programa Vitrine Tetra Pak (2025)  
+-  **Projeto Inovador** — Programa Vitrine Tetra Pak (2025)
 
 O programa oferece mentoria voluntária por profissionais da Tetra Pak e tem como objetivo incentivar soluções que contribuam para a proteção do alimento, das pessoas e do planeta, valorizando iniciativas de impacto socioambiental positivo desenvolvidas por jovens.
 ~
@@ -97,3 +97,4 @@ Projeto desenvolvido para fins educacionais e acadêmicos.
 
 Este projeto é destinado a fins educacionais.  
 Sinta-se à vontade para estudar, adaptar e reutilizar, desde que os créditos sejam mantidos.
+
